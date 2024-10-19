@@ -1,4 +1,4 @@
-# INTRO
+# INTRO ( Read me )
 # Hi, I'm Sai Amruth Teki! 👋
 
 🎓 Currently, I am a 1st-year student of AI Engineering at SRM University, Chennai.  
